@@ -1,9 +1,12 @@
 # Data Science with [Kaggle](https://www.kaggle.com/)
 
 ## EDA, Machine Learning, Deep Learning by using python & R etc...
-<br>
 ## All from Kaggle
+<br>
+<br>
 
 1. [Bike Sharing Demand](https://github.com/todagi/DataScience_with_Kaggle/tree/master/Bike%20Sharing%20Demand)
-
+<br>
+<br>
+<br>
 2. [New York City Taxi Trip Duration](https://github.com/todagi/DataScience_with_Kaggle/tree/master/New%20York%20City%20Taxi%20Trip%20Duration)
