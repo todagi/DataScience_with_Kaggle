@@ -13,3 +13,6 @@
 
 04. [2nd Machine Learning](https://github.com/todagi/DataScience_with_Kaggle/blob/master/New%20York%20City%20Taxi%20Trip%20Duration/New%20York%20City%20Taxi%20Trip%20Duration%2004%20-%202nd%20Machine%20Learning.ipynb) : 새로운 변수들을 추가하여 머신러닝을 활용한 모델 구축 
 
+05. [Hyperparameter in XGBoost](https://github.com/todagi/DataScience_with_Kaggle/blob/master/New%20York%20City%20Taxi%20Trip%20Duration/New%20York%20City%20Taxi%20Trip%20Duration%2005%20-%20Hyperparameter%20in%20XGBoost.ipynb) : 가장 성능 좋은 XGBoost를 바탕으로 Hyperparameter를 조정해 최상의 값 탐색
+
+06. [DNN with TensorFlow](https://github.com/todagi/DataScience_with_Kaggle/blob/master/New%20York%20City%20Taxi%20Trip%20Duration/New%20York%20City%20Taxi%20Trip%20Duration%2006%20-%20DNN%20with%20TensorFlow.ipynb) : 텐서플로를 활용한 모델 구축
